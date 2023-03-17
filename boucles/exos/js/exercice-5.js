@@ -1,6 +1,7 @@
 console.log("Script Boucle 5 chargé !")
 
-const staff = [
+const staff = 
+[
     {name:"Marc",gender:"M"},
     {name:"Sophie",gender:"F"},
     {name:"Eva",gender:"F"},
@@ -11,3 +12,7 @@ const staff = [
     {name:"Hubert",gender:"M"},
     {name:"Aurore",gender:"F"},
 ]
+const homme=m
+const femme=f
+staff.name
+staff.gender
